@@ -4,4 +4,7 @@
 # task1.yml executes role lesson03apache if server OS is from CentOS family
 # usage: anslible-playbook task1.yml
 #
+# task2.yml installs anonymous ftp server
+# usage: ansible-playbook task2.yml
+#
 # Aleksei Smirnov
